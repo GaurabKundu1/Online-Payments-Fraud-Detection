@@ -56,4 +56,3 @@ Below are all the columns from the dataset I’m using here:
 - Transformed the Categorical Features into Numerical. Also transform the values of the isFraud column into No Fraud and Fraud labels to have a better understanding of the output.
 
 - After this I build the Online Payments Fraud Detection Model to predict whether a transaction is fraud or not fraud.
-
