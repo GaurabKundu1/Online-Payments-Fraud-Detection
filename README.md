@@ -47,8 +47,13 @@ Below are all the columns from the dataset I’m using here:
 
 - After that I created a piechart to better understand it. Here is the image of the piechart :
 
-
-
 <div class="position-relative d-flex align-items-center justify-content-center"> 
                             <img src="https://user-images.githubusercontent.com/86102231/221411129-5920e266-89ca-4d24-9d99-d8295cba2c62.png">
 </div>
+
+- Then I looked at the correlation between the features of the data with the isFraud column.
+
+- Transformed the Categorical Features into Numerical. Also transform the values of the isFraud column into No Fraud and Fraud labels to have a better understanding of the output.
+
+- After this I build the Online Payments Fraud Detection Model to predict whether a transaction is fraud or not fraud.
+
