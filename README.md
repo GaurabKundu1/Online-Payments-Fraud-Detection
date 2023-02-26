@@ -47,4 +47,4 @@ Below are all the columns from the dataset I’m using here:
 
 - After that I created a piechart to better understand it. Here is the image of the piechart :
 
-![download](https://user-images.githubusercontent.com/86102231/221411129-5920e266-89ca-4d24-9d99-d8295cba2c62.png)
+<img src="https://user-images.githubusercontent.com/86102231/221411129-5920e266-89ca-4d24-9d99-d8295cba2c62.png" align="center">
