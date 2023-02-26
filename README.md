@@ -1,2 +1,2 @@
 # Online-Payments-Fraud-Detection
-In this project we will create a machine learning model to detect online payment frauds.
+In this project we will use Machine learning and Python to  Detect Online Payments Fraud
