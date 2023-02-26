@@ -37,3 +37,14 @@ Below are all the columns from the dataset I’m using here:
 9. newbalanceDest: the new balance of recipient after the transaction
 10. isFraud: fraud transaction
 
+## The Approach
+
+- So First of all I Imported all the necessary libraries and imported the data into a pandas dataframe.
+
+- Then I generated a summary about the data to better understand about it.
+
+- To find out Type of transaction mentioned in the dataset, I explored the data, found the transaction types and created their counts as separate arrays
+
+- After that I created a piechart to better understand it. Here is the image of the piechart :
+
+![download](https://user-images.githubusercontent.com/86102231/221411129-5920e266-89ca-4d24-9d99-d8295cba2c62.png)
